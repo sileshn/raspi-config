@@ -1,4 +1,5 @@
 # Maintainer: Jingbei Li <i@jingbei.li>
+# Maintainer: Silesh K Nair <sileshn@gmail.com>
 
 pkgname=raspi-config
 _gitname=raspi-config-manjaro
