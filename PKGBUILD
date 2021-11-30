@@ -2,7 +2,7 @@
 
 pkgname=raspi-config
 _gitname=raspi-config-manjaro
-pkgver=20211130.r388.d535e2e
+pkgver=20211130.r389.091c5d6
 pkgrel=1
 pkgdesc="A simple configuration tool for common Raspberry Pi administrative tasks (ArchlinuxARM fork)"
 arch=('any')
