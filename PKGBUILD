@@ -2,12 +2,12 @@
 # Maintainer: Silesh K Nair <sileshn@gmail.com>
 
 pkgname=raspi-config
-_gitname=raspi-config-manjaro
-pkgver=20211130.r389.091c5d6
+_gitname=raspi-config-arch
+pkgver=20220616.r433.c45a21a
 pkgrel=1
 pkgdesc="A simple configuration tool for common Raspberry Pi administrative tasks (ArchlinuxARM fork)"
 arch=('any')
-url="https://github.com/sileshn/raspi-config-manjaro"
+url="https://github.com/sileshn/raspi-config-arch"
 license=('MIT')
 depends=(
 	alsa-utils

@@ -1,8 +1,8 @@
 pkgbase = raspi-config
 	pkgdesc = A simple configuration tool for common Raspberry Pi administrative tasks (ArchlinuxARM fork)
-	pkgver = 20200726.r329.b1ab50b
+	pkgver = 20220616.r433.c45a21a
 	pkgrel = 1
-	url = https://github.com/sileshn/raspi-config-manjaro
+	url = https://github.com/sileshn/raspi-config-arch
 	arch = any
 	license = MIT
 	makedepends = git
@@ -19,7 +19,7 @@ pkgbase = raspi-config
 	optdepends = xorg-xrandr
 	provides = raspi-config
 	conflicts = raspi-config
-	source = git+https://github.com/sileshn/raspi-config-manjaro
+	source = git+https://github.com/sileshn/raspi-config-arch
 	md5sums = SKIP
 
 pkgname = raspi-config
